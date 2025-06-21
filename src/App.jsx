@@ -13,7 +13,7 @@ function App() {
           </h1>
           <img src={reactSvg} alt="" width={230} />
         </div>
-        <div className="flex justify-around mb-12">
+        <div className="flex flex-wrap justify-around mb-12">
           <img
             src={profile}
             alt="profile"
